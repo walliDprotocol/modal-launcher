@@ -1,0 +1,6 @@
+
+{
+    "API_BASE" : "http://localhost:3000/api/v1/",
+    "LOGIN" : "/auth/login",
+    "GET_CONFIG" : "/config/list"
+}
